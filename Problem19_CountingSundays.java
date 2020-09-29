@@ -29,8 +29,8 @@ public class Problem19_CountingSundays {
                 }
             }
         }
-        System.out.println(total_num_of_days);
-        System.out.println(num_of_sundays);
+
+        System.out.println("Total number of Sundays that fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000) = " + num_of_sundays);
 
     }
 
